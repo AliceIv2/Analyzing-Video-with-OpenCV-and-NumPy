@@ -18,4 +18,4 @@ Contents :
 
 
 
-Certificate : https://www.coursera.org/account/accomplishments/certificate/SZG75MG8XGRD
+Course Certificate : https://www.coursera.org/account/accomplishments/certificate/SZG75MG8XGRD
